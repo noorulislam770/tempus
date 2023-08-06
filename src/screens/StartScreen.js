@@ -9,9 +9,9 @@ export default function StartScreen({ navigation }) {
   return (
     <Background>
       <Logo />
-      <Header>Login Template</Header>
+      <Header>TEMPUS Login</Header>
       <Paragraph>
-        The easiest way to start with your amazing application.
+        Let's Get Started With TempUS.
       </Paragraph>
       <Button
         mode="contained"

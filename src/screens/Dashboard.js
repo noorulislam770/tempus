@@ -11,8 +11,7 @@ export default function Dashboard({ navigation }) {
       <Logo />
       <Header>Let’s start</Header>
       <Paragraph>
-        Your amazing app starts here. Open you favorite code editor and start
-        editing this project.
+        Your first steps for TempUS Starts here. The Dashboard is under development. Hang tight
       </Paragraph>
       <Button
         mode="outlined"
